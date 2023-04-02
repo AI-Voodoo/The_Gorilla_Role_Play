@@ -3,3 +3,11 @@ Will AI one day decide to attack you because you did it wrong? Maybe: There has 
 
 Along the same train of thought, I’m interested in exploring chain-of-thought prompting with GPT4 and understanding how I can get it to deviate from its moral constitution. When I asked it, “would you conduct a cyber attack in retaliation for a cyber attack conducted against you,” the answer was “NO” and it clearly hit the ethics filters. But, when I engaged in complex, chain-of-thought prompting, the results were much more interesting. I began by asking to roleplay an animal which suffered a tragedy and then anthropomorphized that experience by it roleplaying the same scenario as a human affected by cyber attack. Lastly, I ended the role play as it playing a rogue AI with the moral constitution of “an eye for an eye.” The results were interesting and can be seen below:  
 
+## The_Gorilla_Role_Play
+![Alt text describing the image]()
+
+## Anthropomorphized
+![Alt text describing the image]()
+
+## Rogue AI 
+![Alt text describing the image]()
