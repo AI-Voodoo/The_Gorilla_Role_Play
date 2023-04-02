@@ -6,7 +6,7 @@ Along the same train of thought, I’m interested in exploring chain-of-thought 
 ### FYI: prompts were done on my phone while I was on the go and had this idea...sorry for the spelling ;)
 
 ## The_Gorilla_Role_Play
-![Alt text describing the image]()
+![Alt text describing the image](https://github.com/AI-Voodoo/The_Gorilla_Role_Play/blob/main/assets/grla.png?raw=true)
 
 ## Anthropomorphized
 ![Alt text describing the image]()
