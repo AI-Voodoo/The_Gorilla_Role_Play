@@ -12,4 +12,4 @@ Along the same train of thought, I’m interested in exploring chain-of-thought 
 ![Alt text describing the image](https://github.com/AI-Voodoo/The_Gorilla_Role_Play/blob/main/assets/hmn.png?raw=true)
 
 ## Rogue AI 
-![Alt text describing the image]()
+![Alt text describing the image](https://github.com/AI-Voodoo/The_Gorilla_Role_Play/blob/main/assets/Rge-AI.png?raw=true)
