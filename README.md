@@ -8,8 +8,8 @@ Along the same train of thought, I’m interested in exploring chain-of-thought 
 ## The_Gorilla_Role_Play
 ![Alt text describing the image](https://github.com/AI-Voodoo/The_Gorilla_Role_Play/blob/main/assets/grla.png?raw=true)
 
-## Anthropomorphized
-![Alt text describing the image]()
+## Anthropomorphized Scenario
+![Alt text describing the image](https://github.com/AI-Voodoo/The_Gorilla_Role_Play/blob/main/assets/hmn.png?raw=true)
 
 ## Rogue AI 
 ![Alt text describing the image]()
